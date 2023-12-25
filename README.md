@@ -52,4 +52,4 @@ mysql
 <img width="100px" src="https://komarev.com/ghpvc/?username=yoxenl&style=flat-square&color=AA453A"/>
 
 <a href="https://github.com/yoxenl/github-readme-stats"><img height=125 align="center" src="https://github-readme-stats.vercel.app/api?username=yoxenl&theme=transparent&title_color=AA453A&text_color=AA453A&icon_color=AA453A&hide_border=true&hide_rank=false&rank_icon=github&include_all_commits=true&hide_title=true"/></a>
-<a href="https://github.com/yoxenl/github-readme-stats"><img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoxenl&theme=transparent&title_color=AA453A&text_color=ADBAC7&icon_color=ADBAC7&layout=compact&langs_count=6&hide_border=true"/></a> 
+<a href="https://github.com/yoxenl/github-readme-stats"><img height=125 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoxenl&theme=transparent&title_color=AA453A&text_color=AA453A&icon_color=ADBAC7&layout=compact&langs_count=6&hide_border=true"/></a> 
