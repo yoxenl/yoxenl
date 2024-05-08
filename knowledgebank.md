@@ -1,7 +1,7 @@
 #### knowledge bank
 
 languages:
-python, js, php, html, css, c#
+python, js, ts, php, html, css, c#
 <br />
 databases:
 mysql
@@ -9,10 +9,10 @@ mysql
 <details>
   <summary>read more</summary>
     libraries:
-    discord.js, pygame, tkinter
+    discord.js, pygame, tkinter, react.js
   <br/>
     design:
-    creative cloud, dreamweaver, <br/> illustrator, photoshop, aseprite, canva
+    creative cloud, dreamweaver, illustrator, <br/>photoshop, aseprite, canva, figma
   <br/>
     other:
     arduino, mosquitto, notion, raspberrypi, trello, plex, unity
@@ -21,7 +21,7 @@ mysql
     <details>
       <summary>want to learn</summary>
         libraries:
-        .net, angular, django, flask, react, vue
+        .net, angular, django, flask, vue
       <br/>
         machine learning:
         matplotlib, numpy, pandas, ts
@@ -30,7 +30,7 @@ mysql
         mariadb, mongodb, sqlite
       <br/>
         design:
-        after effects, blender, figma, gimp
+        after effects, blender, gimp
       <br/>
         other:
         jira
